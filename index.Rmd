@@ -1,6 +1,6 @@
 ---
-title       : betty's deck
-subtitle    : testing
+title       : Data Science : Product Data
+subtitle    : Product Data
 author      : betty
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
